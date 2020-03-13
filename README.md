@@ -5,5 +5,7 @@
 ### Html, Css Resouces: `https://codepen.io/gau/pen/LjQwGp`
 
 ### Research: 
-Javascript Timing: `https://www.w3schools.com/js/js_timing.asp` \n
+Javascript Timing: `https://www.w3schools.com/js/js_timing.asp`, 
+
+#
 Javascript Date object: `https://www.w3schools.com/jsref/jsref_obj_date.asp`
